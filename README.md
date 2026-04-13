@@ -53,11 +53,17 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como desenvolvedor, quero extrair dados do Comex Stat, para iniciar a base do projeto                                           | 2    | Alta       | Como desenvolvedor, quero tratar e organizar os dados, para torná-los utilizáveis
-| 3    | Média      | Como desenvolvedor, quero filtrar dados do estado de São Paulo, para análise regional                                           | 4    | Média      | Como desenvolvedor, quero unir os dados de importação e exportação, para entender o volume comercial
-| 5    | Média      | Como cliente, quero visualizar volume em KG e valor FOB, para medir desempenho inicial                                          | 6    | Alta       | Como cliente, quero identificar produtos por código SH4, para entender a base comercial
-| 7    | Alta       | Como cliente, quero identificar as principais unidades da receita federal para entender melhor o movimento logistico da região  | 8    | Alta       | Como desenvolvedor, quero identificar países parceiros, para análise inicial do comércio                                       | 9    | Alta       | Como desenvolvedor, quero criar a base de dados para gerar o dashboard
-| 10   | Média      | Como desenvolvedor, quero criar a estrutura inicial do dashboard, para iniciar a visualização dos dados                         | 11   | Alta       | Como cliente, desejo visualizar os dados comerciais do estado de São Paulo para análise logística da região
+| 1    | Alta       | Como desenvolvedor, quero extrair dados do Comex Stat, para iniciar a base do projeto
+| 2    | Alta       | Como desenvolvedor, quero tratar e organizar os dados, para torná-los utilizáveis
+| 3    | Média      | Como desenvolvedor, quero filtrar dados do estado de São Paulo, para análise regional 
+| 4    | Média      | Como desenvolvedor, quero unir os dados de importação e exportação, para entender o volume comercial
+| 5    | Média      | Como cliente, quero visualizar volume em KG e valor FOB, para medir desempenho inicial
+| 6    | Alta       | Como cliente, quero identificar produtos por código SH4, para entender a base comercial
+| 7    | Alta       | Como cliente, quero identificar as principais unidades da receita federal para entender melhor o movimento logistico da região
+| 8    | Alta       | Como desenvolvedor, quero identificar países parceiros, para análise inicial do comércio 
+| 9    | Alta       | Como desenvolvedor, quero criar a base de dados para gerar o dashboard
+| 10   | Média      | Como desenvolvedor, quero criar a estrutura inicial do dashboard, para iniciar a visualização dos dados
+| 11   | Alta       | Como cliente, desejo visualizar os dados comerciais do estado de São Paulo para análise logística da região
 
 
 |     |            |                                                                                                                                 |     |            |
