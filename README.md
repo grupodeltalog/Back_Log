@@ -53,15 +53,17 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como desenvolvedor, quero extrair dados do Comex Stat, para iniciar a base do projeto                                                  | 5          | 1      |
-| 2    | Alta       | Como desenvolvedor, quero tratar e organizar os dados utilizando o Pythin, para torná-los utilizáveis                                                                     | 8          | 1      |
-| 3    | Alta       | Como desenvolvedor, quero filtrar dados do estado de São Paulo, para análise regional                                               | 5          | 2      |
-| 4    | Média      | Como desenvolvedor, quero unir os dados de importação e exportação, para entender o volume comercial                                                                                                    | 5    | Alta       | Como desenvolvedor, quero visualizar volume em KG e valor FOB, para medir desempenho inicial                                                  | 5          | 1      |
-| 6    | Alta       | Como desenvolvedor, quero identificar produtos por código SH4, para entender a base comercial                                                                     | 8          | 1      |
-| 7    | Alta       | Como desenvolvedor, quero identificar países parceiros, para análise inicial do comércio                                                | 5          | 2      |
-| 8    | Alta       | Como desenvolvedor, quero criar a base de dados utilizando o pyhton, para gerar o dashboard                                               | 5          | 2      |
-| 9    | Média      | Como desenvolvedor, quero calcular os totais de importação e exportação, para entender o volume comercial                                                                                                | 10   | Média      | Como desenvolvedor, quero criar a estrutura inicial do dashboard, para iniciar a visualização dos dados no Power BI                                       
-| 11   | Média      | Como desenvolvedor, quero organizar e relacionar as funcionalidades no Power BI, para gerar o dashboard inicial
+| 1    | Alta       | Como desenvolvedor, quero extrair dados do Comex Stat, para iniciar a base do projeto                                           | 2    | Alta       | Como desenvolvedor, quero tratar e organizar os dados, para torná-los utilizáveis
+| 3    | Média      | Como desenvolvedor, quero filtrar dados do estado de São Paulo, para análise regional                                           | 4    | Média      | Como desenvolvedor, quero unir os dados de importação e exportação, para entender o volume comercial
+| 5    | Média      | Como cliente, quero visualizar volume em KG e valor FOB, para medir desempenho inicial                                          | 6    | Alta       | Como cliente, quero identificar produtos por código SH4, para entender a base comercial
+| 7    | Alta       | Como cliente, quero identificar as principais unidades da receita federal para entender melhor o movimento logistico da região  | 8    | Alta       | Como desenvolvedor, quero identificar países parceiros, para análise inicial do comércio                                       | 9    | Alta       | Como desenvolvedor, quero criar a base de dados para gerar o dashboard
+| 10   | Média      | Como desenvolvedor, quero criar a estrutura inicial do dashboard, para iniciar a visualização dos dados                         | 11   | Alta       | Como cliente, desejo visualizar os dados comerciais do estado de São Paulo para análise logística da região
+
+
+|     |            |                                                                                                                                 |     |            |
+|     |            |                                                                                                                                  |     |            |
+|     |            |                                                                                                                                  |     |            |                                        
+|     |            |
 
 
   
