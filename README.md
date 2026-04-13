@@ -64,38 +64,26 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 9    | Alta       | Como desenvolvedor, quero criar a base de dados para gerar o dashboard
 | 10   | Média      | Como desenvolvedor, quero criar a estrutura inicial do dashboard, para iniciar a visualização dos dados
 | 11   | Alta       | Como cliente, desejo visualizar os dados comerciais do estado de São Paulo para análise logística da região
+| 12   |            | textos | 5Minutos | sprint 2
+| 13   |            |
+| 14   |            |
+| 15   |            |
+| 16   |            | 
+| 17   |            |
+| 18   |            |
+| 19   |            |                                          
+| 20   |            |
+| 21   |    bma        |   text    |      min    | sprint 3
+| 22   |            
+| 23   |
+| 24   | 
+| 25   |            
+| 26   |
+| 27   |  
+| 28   |                                                    
+| 29   |
+| 30   |
 
-# sprint 2     
-
-| Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint | 
-|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-|  1   |
-|  2   |            
-|  3   |
-|  4   | 
-|  5   |            
-|  6   |
-|  7   |  
-|  8   |                                                    
-|  9   |
-| 10   |
-| 11   |
-
-# sprint 3    
-
-| Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint | 
-|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-|  1   |
-|  2   |            
-|  3   |
-|  4   | 
-|  5   |            
-|  6   |
-|  7   |  
-|  8   |                                                    
-|  9   |
-| 10   |
-| 11   |
   
   
 # Registro das Sprints
