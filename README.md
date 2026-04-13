@@ -74,15 +74,15 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 19   |            | |  | 2                                         
 | 20   |            ||  | 2
 | 21   |    bma        |   text    |      min    | 3
-| 22   |            
-| 23   |
-| 24   | 
-| 25   |            
-| 26   |
-| 27   |  
-| 28   |                                                    
-| 29   |
-| 30   |
+| 22   |            |   text    |      min    | 3
+| 23   ||   text    |      min    | 3
+| 24   | |   text    |      min    | 3
+| 25   |            |   text    |      min    | 3
+| 26   ||   text    |      min    | 3
+| 27   |  |   text    |      min    | 3
+| 28   |                   |   text    |      min    | 3                                 
+| 29   ||   text    |      min    | 3
+| 30   ||   text    |      min    | 3
 
   
   
