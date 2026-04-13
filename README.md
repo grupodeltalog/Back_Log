@@ -53,27 +53,27 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como desenvolvedor, quero extrair dados do Comex Stat, para iniciar a base do projeto
-| 2    | Alta       | Como desenvolvedor, quero tratar e organizar os dados, para torná-los utilizáveis
-| 3    | Média      | Como desenvolvedor, quero filtrar dados do estado de São Paulo, para análise regional 
-| 4    | Média      | Como desenvolvedor, quero unir os dados de importação e exportação, para entender o volume comercial
-| 5    | Média      | Como cliente, quero visualizar volume em KG e valor FOB, para medir desempenho inicial
-| 6    | Alta       | Como cliente, quero identificar produtos por código SH4, para entender a base comercial
-| 7    | Alta       | Como cliente, quero identificar as principais unidades da receita federal para entender melhor o movimento logistico da região
-| 8    | Alta       | Como desenvolvedor, quero identificar países parceiros, para análise inicial do comércio 
-| 9    | Alta       | Como desenvolvedor, quero criar a base de dados para gerar o dashboard
-| 10   | Média      | Como desenvolvedor, quero criar a estrutura inicial do dashboard, para iniciar a visualização dos dados
-| 11   | Alta       | Como cliente, desejo visualizar os dados comerciais do estado de São Paulo para análise logística da região
-| 12   |            | textos | 5Minutos | sprint 2
-| 13   |            |
-| 14   |            |
-| 15   |            |
-| 16   |            | 
-| 17   |            |
-| 18   |            |
-| 19   |            |                                          
-| 20   |            |
-| 21   |    bma        |   text    |      min    | sprint 3
+| 1    | Alta       | Como desenvolvedor, quero extrair dados do Comex Stat, para iniciar a base do projeto |  30 minutos | 1
+| 2    | Alta       | Como desenvolvedor, quero tratar e organizar os dados, para torná-los utilizáveis |  45 minutos  | 1
+| 3    | Média      | Como desenvolvedor, quero filtrar dados do estado de São Paulo, para análise regional |  5 minutos  | 1
+| 4    | Média      | Como desenvolvedor, quero unir os dados de importação e exportação, para entender o volume comercial|  15 minutos  | 1
+| 5    | Média      | Como cliente, quero visualizar volume em KG e valor FOB, para medir desempenho inicial|  10 minutos  | 1
+| 6    | Alta       | Como cliente, quero identificar produtos por código SH4, para entender a base comercial|  5 minutos | 1
+| 7    | Alta       | Como cliente, quero identificar as principais unidades da receita federal para entender melhor o movimento logistico da região|  10 minutos  | 1
+| 8    | Alta       | Como desenvolvedor, quero identificar países parceiros, para análise inicial do comércio |  15 minutos | 1
+| 9    | Alta       | Como desenvolvedor, quero criar a base de dados para gerar o dashboard|   10 minutos | 1
+| 10   | Média      | Como desenvolvedor, quero criar a estrutura inicial do dashboard, para iniciar a visualização dos dados| 10 minutos   | 1
+| 11   | Alta       | Como cliente, desejo visualizar os dados comerciais do estado de São Paulo para análise logística da região|  45 minutos  | 1
+| 12   |            | Como cliente, desejo visualizar os dados dos municípios do Estado de  São Paulo, para abranger a análise do fluxo logístico da região. |  | 2
+| 13   |            | |  | 2
+| 14   |            | |  | 2
+| 15   |            ||  | 2
+| 16   |            | |  | 2
+| 17   |            ||  | 2
+| 18   |            ||  | 2
+| 19   |            | |  | 2                                         
+| 20   |            ||  | 2
+| 21   |    bma        |   text    |      min    | 3
 | 22   |            
 | 23   |
 | 24   | 
