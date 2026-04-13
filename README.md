@@ -65,24 +65,24 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 10   | Média      | Como desenvolvedor, quero criar a estrutura inicial do dashboard, para iniciar a visualização dos dados| 10 minutos   | 1
 | 11   | Alta       | Como cliente, desejo visualizar os dados comerciais do estado de São Paulo para análise logística da região|  45 minutos  | 1
 | 12   |            | Como cliente, desejo visualizar os dados dos municípios do Estado de  São Paulo, para abranger a análise do fluxo logístico da região. |  | 2
-| 13   |            | |  | 2
-| 14   |            | |  | 2
-| 15   |            ||  | 2
-| 16   |            | |  | 2
-| 17   |            ||  | 2
-| 18   |            ||  | 2
-| 19   |            | |  | 2                                         
-| 20   |            ||  | 2
-| 21   |    bma        |   text    |      min    | 3
-| 22   |            |   text    |      min    | 3
-| 23   ||   text    |      min    | 3
-| 24   | |   text    |      min    | 3
-| 25   |            |   text    |      min    | 3
-| 26   ||   text    |      min    | 3
-| 27   |  |   text    |      min    | 3
-| 28   |                   |   text    |      min    | 3                                 
-| 29   ||   text    |      min    | 3
-| 30   ||   text    |      min    | 3
+| 13   |            | Como cliente, quero saber quais os produtos mais comercializados na região do vale em KG e valor FOB, para medir desempenho inicial.          |  | 2
+| 14   |            |   Como cliente, desejo visualizar a quantidade dos produtos comercializados nos municípios do estado, para análisar valor agregado.        |  | 2
+| 15   |            |  Como cliente, desejo obter dados da comercialização por código SH4, para pesquisa mais rápida e objetiva.         |  | 2
+| 16   |            |   Como cliente, desejo visualizar as URF's que abrangem o estado por município.        |  | 2
+| 17   |            |  Como cliente, desejo visualizar o ranking de exportação dos municípios do estado , para entender concentração de comércio.         |  | 2
+| 18   |            |    Como cliente, desejo visualizar o ranking de importação dos municípios do estado, para entender necessidades produtivas.       |  | 2
+| 19   |            |  Como cliente, desejo uma base de dados bem estruturada, para organizar melhor os dados.       |  | 2                                         
+| 20   |            |   Como cliente, desejo visualizar os dados por municípios do Estado de São Paulo em um dashboard interativo, para análise da região por município.        |  | 2
+| 21   |    bma     |       |         | 3
+| 22   |            |      |      min    | 3
+| 23   |            |       |      min    | 3
+| 24   |            |       |      min    | 3
+| 25   |            |       |      min    | 3
+| 26   |            |      |      min    | 3
+| 27   |            |      |      min    | 3
+| 28   |            |       |      min    | 3                                 
+| 29   |            |     |      min    | 3
+| 30   |            |     |      min    | 3
 
   
   
