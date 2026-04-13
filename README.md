@@ -66,12 +66,18 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 11   | Alta       | Como cliente, desejo visualizar os dados comerciais do estado de São Paulo para análise logística da região
 
 
-|     |            |                                                                                                                                 |     |            |
-|     |            |                                                                                                                                  |     |            |
-|     |            |                                                                                                                                  |     |            |                                        
-|     |            |
-
-
+|      |
+|      |            
+|      |
+|      | 
+|      |            
+|      |
+|      |  
+|      |                                                    
+|      |
+|      |
+|      |
+|      |
   
 # Registro das Sprints
 
