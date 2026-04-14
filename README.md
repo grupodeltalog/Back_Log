@@ -62,14 +62,14 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 9    | Alta       | Como desenvolvedor, quero criar a base de dados para gerar o dashboard|   10 minutos | 1
 | 10   | Média      | Como desenvolvedor, quero criar a estrutura inicial do dashboard, para iniciar a visualização dos dados| 10 minutos   | 1
 | 11   | Alta       | Como cliente, desejo visualizar os dados comerciais do estado de São Paulo para análise logística da região|  45 minutos  | 1
-| 12   |            | Como cliente, desejo visualizar os dados dos municípios do Estado de  São Paulo, para abranger a análise do fluxo logístico da região. | 30 minutos | 2
-| 13   |            | Como cliente, quero saber quais os produtos mais comercializados na região do vale em KG e valor FOB, para medir desempenho inicial.          | 15 minutos| 2
-| 14   |            |   Como cliente, desejo visualizar a quantidade dos produtos comercializados nos municípios do estado, para análisar valor agregado.        | 45 minutos | 2
-| 15   |            |  Como cliente, desejo obter dados da comercialização por código SH4, para pesquisa mais rápida e objetiva.         | 10 minutos  | 2
-| 16   |            |   Como cliente, desejo visualizar as URF's que abrangem o estado por município.        | 20 minutos | 2
-| 17   |            |  Como cliente, desejo visualizar o ranking de exportação dos municípios do estado , para entender concentração de comércio.         | 15 minutos | 2
-| 18   |            |    Como cliente, desejo visualizar o ranking de importação dos municípios do estado, para entender necessidades produtivas.       | 20 minutos  | 2
-| 19   |            |  Como cliente, desejo uma base de dados bem estruturada, para organizar melhor os dados.       | 30 minutos | 2                                         
+| 12   | Alta       | Como cliente, desejo visualizar os dados dos municípios do Estado de  São Paulo, para abranger a análise do fluxo logístico da região. | 30 minutos | 2
+| 13   | Média      | Como cliente, quero saber quais os produtos mais comercializados na região do vale em KG e valor FOB, para medir desempenho inicial.          | 15 minutos| 2
+| 14   | Média      |   Como cliente, desejo visualizar a quantidade dos produtos comercializados nos municípios do estado, para análisar valor agregado.        | 45 minutos | 2
+| 15   | Alta       |  Como cliente, desejo obter dados da comercialização por código SH4, para pesquisa mais rápida e objetiva.         | 10 minutos  | 2
+| 16   | Média      |   Como cliente, desejo visualizar as URF's que abrangem o estado por município.        | 20 minutos | 2
+| 17   | Alta       |  Como cliente, desejo visualizar o ranking de exportação dos municípios do estado , para entender concentração de comércio.         | 15 minutos | 2
+| 18   | Média      |    Como cliente, desejo visualizar o ranking de importação dos municípios do estado, para entender necessidades produtivas.       | 20 minutos  | 2
+| 19   | Alta       |  Como cliente, desejo uma base de dados bem estruturada, para organizar melhor os dados.       | 30 minutos | 2                                         
 | 20   |            |   Como cliente, desejo visualizar os dados por municípios do Estado de São Paulo em um dashboard interativo, para análise da região por município.        | 45 minutos  | 2
 | 21   |            |   Como cliente, desejo visualizar uma analise comparativa por produtos semelhantes entre os estados da federação para uma análise abrangendo todo o pais.    |  45 minutos    | 3
 | 22   |            |  Como cliente, desejo visualizar os dados comparativos de importação e exportação entre os outros estados da federação, para análise de desempenho.     |  45 minutos    | 3
