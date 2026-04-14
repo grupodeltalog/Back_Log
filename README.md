@@ -73,16 +73,16 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 18   |            |    Como cliente, desejo visualizar o ranking de importação dos municípios do estado, para entender necessidades produtivas.       | 20 minutos  | 2
 | 19   |            |  Como cliente, desejo uma base de dados bem estruturada, para organizar melhor os dados.       | 30 minutos | 2                                         
 | 20   |            |   Como cliente, desejo visualizar os dados por municípios do Estado de São Paulo em um dashboard interativo, para análise da região por município.        | 45 minutos  | 2
-| 21   |            |       |  45 minutos    | 3
-| 22   |            |       |  45 minutos    | 3
-| 23   |            |       |  20 minutos    | 3
-| 24   |            |       |  30 minutos    | 3
-| 25   |            |       |  10 minutos    | 3
-| 26   |            |       |  15 minutos    | 3
-| 27   |            |       |  30 minutos    | 3
-| 28   |            |       |  15 minutos    | 3                                 
-| 29   |            |       |  20 minutos    | 3
-| 30   |            |       |  45 minutos    | 3
+| 21   |            |   Como cliente, desejo visualizar uma analise comparativa por produtos semelhantes entre os estados da federação para uma análise abrangendo todo o pais.    |  45 minutos    | 3
+| 22   |            |  Como cliente, desejo visualizar os dados comparativos de importação e exportação entre os outros estados da federação, para análise de desempenho.     |  45 minutos    | 3
+| 23   |            |  Como cliente, desejo uma analise das unidades da receita federal que conectam a movimentação do pais, para análise da movimentação logística nacional.     |  20 minutos    | 3
+| 24   |            |   Como cliente, desejo saber quais os principais modais utilizados, para análise das possibilidades do tráfego de produtos.    |  30 minutos    | 3
+| 25   |            |   Como cliente, desejo visualizar produtos por estado em unidade, KG, e valor FOB, para análise de valor agregado. |  10 minutos    | 3
+| 26   |            |  Como cliente, desejo uma função de pesquisa por código SH4 para facilitar as pesquisas por estados da federação.     |  15 minutos    | 3
+| 27   |            | Como cliente, desejo visualizar uma análise de mercados emergentes com base em aumento de produção por produtos.      |  30 minutos    | 3
+| 28   |            |   Como cliente, desejo visualizar todas estas informações em um dashboard gráfico interativo.    |  15 minutos    | 3                                 
+| 29   |            |Como cliente desejo que a base de dados do dashboard contenha informações recentes e atualizadas.     |  20 minutos    | 3
+| 30   |            |  Como cliente desejo todas as funcionalidades apresentadas nas sprints em plena funcionalidade     |  45 minutos    | 3
 
   
   
