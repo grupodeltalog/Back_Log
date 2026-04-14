@@ -73,16 +73,16 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 18   |            |    Como cliente, desejo visualizar o ranking de importação dos municípios do estado, para entender necessidades produtivas.       | 20 minutos  | 2
 | 19   |            |  Como cliente, desejo uma base de dados bem estruturada, para organizar melhor os dados.       | 30 minutos | 2                                         
 | 20   |            |   Como cliente, desejo visualizar os dados por municípios do Estado de São Paulo em um dashboard interativo, para análise da região por município.        | 45 minutos  | 2
-| 21   |            |       |      minutos    | 3
-| 22   |            |       |      minutos    | 3
-| 23   |            |       |      minutos    | 3
-| 24   |            |       |      minutos    | 3
-| 25   |            |       |      minutos    | 3
-| 26   |            |       |      minutos    | 3
-| 27   |            |       |      minutos    | 3
-| 28   |            |       |      minutos    | 3                                 
-| 29   |            |       |      minutos    | 3
-| 30   |            |       |      minutos    | 3
+| 21   |            |       |  45 minutos    | 3
+| 22   |            |       |  45 minutos    | 3
+| 23   |            |       |  20 minutos    | 3
+| 24   |            |       |  30 minutos    | 3
+| 25   |            |       |  10 minutos    | 3
+| 26   |            |       |  15 minutos    | 3
+| 27   |            |       |  30 minutos    | 3
+| 28   |            |       |  15 minutos    | 3                                 
+| 29   |            |       |  20 minutos    | 3
+| 30   |            |       |  45 minutos    | 3
 
   
   
