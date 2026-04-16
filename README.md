@@ -52,7 +52,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 3    | Média      | Como desenvolvedor, quero filtrar dados do estado de São Paulo, para análise regional |  5 minutos  | 1
 | 4    | Média      | Como desenvolvedor, quero unir os dados de importação e exportação, para entender o volume comercial|  15 minutos  | 1
 | 5    | Média      | Como cliente, quero visualizar volume em KG e valor FOB, para medir desempenho inicial|  10 minutos  | 1
-| 6    | Alta       | Como cliente, quero identificar produtos por código SH4, para entender a base comercial|  5 minutos | 1
+| 6    | Alta       | Como cliente, quero identificar os modais utilizados, para entender a cadeia de transporte local|  5 minutos | 1
 | 7    | Alta       | Como cliente, quero identificar as principais unidades da receita federal para entender melhor o movimento logistico da região|  10 minutos  | 1
 | 8    | Alta       | Como desenvolvedor, quero identificar países parceiros, para análise inicial do comércio |  15 minutos | 1
 | 9    | Alta       | Como desenvolvedor, quero criar a base de dados para gerar o dashboard|   10 minutos | 1
