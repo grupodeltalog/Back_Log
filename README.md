@@ -47,16 +47,16 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como desenvolvedor, quero extrair dados do Comex Stat, para iniciar a base do projeto |  30 minutos | 1
-| 2    | Alta       | Como desenvolvedor, quero tratar e organizar os dados, para torná-los utilizáveis |  45 minutos  | 1
-| 3    | Média      | Como desenvolvedor, quero filtrar dados do estado de São Paulo, para análise regional |  5 minutos  | 1
-| 4    | Média      | Como desenvolvedor, quero unir os dados de importação e exportação, para entender o volume comercial|  15 minutos  | 1
+| 1    | Alta       | Como gestor público, quero extrair dados do Comex Stat, para iniciar a base do projeto |  30 minutos | 1
+| 2    | Alta       | Como gestor público, quero tratar e organizar os dados, para torná-los utilizáveis |  45 minutos  | 1
+| 3    | Média      | Como gestor público, quero filtrar dados do estado de São Paulo, para análise regional |  5 minutos  | 1
+| 4    | Média      | Como gestor público, quero unir os dados de importação e exportação, para entender o volume comercial|  15 minutos  | 1
 | 5    | Média      | Como cliente, quero visualizar volume em KG e valor FOB, para medir desempenho inicial|  10 minutos  | 1
 | 6    | Alta       | Como cliente, quero identificar os modais utilizados, para entender a cadeia de transporte local|  5 minutos | 1
 | 7    | Alta       | Como cliente, quero identificar as principais unidades da receita federal para entender melhor o movimento logistico da região|  10 minutos  | 1
-| 8    | Alta       | Como desenvolvedor, quero identificar países parceiros, para análise inicial do comércio |  15 minutos | 1
-| 9    | Alta       | Como desenvolvedor, quero criar a base de dados para gerar o dashboard|   10 minutos | 1
-| 10   | Média      | Como desenvolvedor, quero criar a estrutura inicial do dashboard, para iniciar a visualização dos dados| 10 minutos   | 1
+| 8    | Alta       | Como gestor público, quero identificar países parceiros, para análise inicial do comércio |  15 minutos | 1
+| 9    | Alta       | Como gestor público, quero criar a base de dados para gerar o dashboard|   10 minutos | 1
+| 10   | Média      | Como gestor público, quero criar a estrutura inicial do dashboard, para iniciar a visualização dos dados| 10 minutos   | 1
 | 11   | Alta       | Como cliente, desejo visualizar os dados comerciais do estado de São Paulo para análise logística da região|  45 minutos  | 1
 | 12   | Alta       | Como cliente, desejo visualizar os dados dos municípios do Estado de  São Paulo, para abranger a análise do fluxo logístico da região. | 30 minutos | 2
 | 13   | Média      | Como cliente, quero saber quais os produtos mais comercializados na região do vale em KG e valor FOB, para medir desempenho inicial.          | 15 minutos| 2
