@@ -47,15 +47,15 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como gestor público, desejo uma base de dados extraidos do Comex Stat, para possuir uma fonte oficial e confiavél de informações | 2 horas | 1
+| 1    | Alta       | Como gestor público, desejo uma base de dados extraídos do Comex Stat, para possuir uma fonte oficial e confiavél de informações | 2 horas | 1
 | 2    | Alta       | Como gestor público, desejo dados tratados e organizados, para torná-los utilizáveis | 4 horas | 1
-| 3    | Média      | Como gestor público, desejo filtrar dados dos estados dos estados da federação, para análise estadual | 1 hora | 1
-| 4    | Média      | Como gestor público, desejo os dados de importação e exportação unidos, para entender o volume comercial | 1 hora | 1
+| 3    | Média      | Como gestor público, desejo filtrar dados dos estados da federação, para análise estadual | 1 hora | 1
+| 4    | Média      | Como gestor público, desejo os dados de importação e exportação integrados, para entender o volume comercial | 1 hora | 1
 | 5    | Alta       | Como gestor público, desejo identificar os modais utilizados, para entender a cadeia de transporte local |  1 hora | 1
-| 6    | Alta       | Como gestor público, desejo identificar as principais unidades da receita federal para entender melhor o movimento logistico da região |  2 horas | 1
+| 6    | Alta       | Como gestor público, desejo identificar as principais unidades da Receita Federal para entender melhor o movimento logístico da região |  2 horas | 1
 | 7    | Alta       | Como gestor público, desejo identificar países parceiros, para análise inicial do comércio |  2 horas | 1
 | 8    | Alta       | Como gestor público, desejo uma base de dados sólida para gerar o dashboard| 2 horas | 1
-| 9   | Média      | Como gestor público, desejo visualizar estrutura inicial do dashboard, para iniciar a visualização dos dados | 2 horas  | 1
+| 9   | Média      | Como gestor público, desejo visualizar a estrutura inicial do dashboard, para iniciar a visualização dos dados | 2 horas  | 1
 | 10   | Alta       | Como gestor público, desejo visualizar os dados comerciais do estado de São Paulo para análise logística da região |  4 horas  | 1
 | 11   | Alta       | Como gestor público, desejo visualizar os dados dos municípios do Estado de São Paulo, para abranger a análise do fluxo logístico da região. | 2 horas | 2
 | 12   | Média      | Como gestor público, desejo saber quais os produtos mais comercializados na região do vale em KG e valor FOB, para medir desempenho inicial.          | 1 hora | 2
