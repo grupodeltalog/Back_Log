@@ -23,8 +23,8 @@
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
-| ID  | User Story                                                                 | Prioridade | Estimativa |
-|-----|-----------------------------------------------------------------------------|------------|------------|
+| Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
+|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
 | 11   | Alta       | Como gestor público, desejo visualizar os dados dos municípios do Estado de São Paulo, para abranger a análise do fluxo logístico da região. | 4 horas | 2
 | 12   | Média      | Como gestor público, desejo saber quais os produtos mais comercializados em KG e valor FOB, para medir desempenho inicial. | 3 horas | 2
 | 13   | Alta     | Como gestor público, desejo comparar o desempenho de municípios paulistas de porte semelhante para identificação de desempenho| 6 horas | 2
