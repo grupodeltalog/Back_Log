@@ -54,10 +54,10 @@
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
-
+| Backlog de Produto| Backlog de Sprint	| Alocação de Tarefas	| Documentação no GitHub| 	Apresentação (Review)	| Conformidade Técnica| Total | 
+|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-|
+|10%|10%|10%|10%|10%|10%|60%
+|4|4|2|2|4|4|4,8|
 ---
 
 ## 🚀 Próximos Passos
