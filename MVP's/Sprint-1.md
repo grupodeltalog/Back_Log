@@ -61,9 +61,11 @@
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- Ajuste quantitativo 
+(Valor Kg, Valor FOB, Valor Agregado);
+
+ - Ajuste do dashboard no PowerBI
+(Padronização dos filtros de 2023 até o ano de 2025).
 
 ---
 
