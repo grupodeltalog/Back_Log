@@ -53,7 +53,7 @@
 
 ---
 
-## 📈 Métricas de Validação
+## 📈 Métricas de Avaliação
 | Backlog de Produto| Backlog de Sprint	| Alocação de Tarefas	| Documentação no GitHub| 	Apresentação (Review)	| Conformidade Técnica| Total | 
 |-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-|
 |10%|10%|10%|10%|10%|10%|60%
