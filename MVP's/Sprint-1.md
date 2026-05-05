@@ -2,24 +2,26 @@
 
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?
-- A falta de uma ferramenta para a visualização dos dados do comercio exterior dos municipios do estado de São Paulo
+- Qual problema resolve? A falta de uma ferramenta para a visualização dos dados do comercio exterior dos municipios do estado de São Paulo
 
-- Qual hipótese será validada?
-  
-- Qual valor será entregue ao usuário final?  
+- Qual hipótese será validada? Os dados de exportação e importação de São Paulo e quais seriam os possiveis parceiros comerciais
+   
+- Qual valor será entregue ao usuário final? Uma ferramenta para visualização dos dados de exportação e importação
 
 ---
 
 ## 📝 Descrição da Solução
 > Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
+- Funcionalidades principais incluídas
+- graficos interativos
+- cartões para a visualizção dos dados do grafico  
+- Limitações conhecidas 
 - Escopo reduzido (somente o essencial para validar a ideia)  
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
+
 - **Persona 1:** breve descrição, necessidades e dores atendidas  
 - **Persona 2:** breve descrição, necessidades e dores atendidas  
 
