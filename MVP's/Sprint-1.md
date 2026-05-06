@@ -6,7 +6,7 @@
 
 - Qual hipótese será validada? Se os indicadores de comércio exterior forem apresentados em um dashboard, então será possível analisar e identificar se o desempenho do estado está em ascensão, estagnação ou declínio.
    
-- Qual valor será entregue ao usuário final? Um dashboard interativo que permite analisar e comparar dados de exportação, importação, unidades da Receita Federal e países parceiros, facilitando a compreensão dos indicadores e a tomada de decisão.
+- Qual valor será entregue ao usuário final? Um dashboard interativo que permite analisar e comparar dados do comércio exterior, facilitando a compreensão dos indicadores e a tomada de decisão.
 
 ---
 
