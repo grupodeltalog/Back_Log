@@ -4,7 +4,7 @@
 > Descrever de forma clara qual é o propósito do MVP:  
 - Qual problema resolve? A falta de uma ferramenta para a visualização dos dados do comércio exterior do Estado de São Paulo.
 
-- Qual hipótese será validada? Os dados de exportação e importação de São Paulo e quais seriam os possiveis parceiros comerciais
+- Qual hipótese será validada? Se o desempenho do estado for apresentado em um dashboard com indicadores de exportação, importação, unidades da Receita Federal e países parceiros comerciais, então será possível analisar e identificar a ascensão, estagnação ou declínio no comércio exterior.
    
 - Qual valor será entregue ao usuário final? Uma ferramenta para visualização dos dados de exportação e importação
 
