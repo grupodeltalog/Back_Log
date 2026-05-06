@@ -12,7 +12,7 @@
 
 ## 📝 Descrição da Solução
 > Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas
+- Dentre as principais funcionalidades incluídas, o dashboard permite visualizar e comparar dados de exportação, importação, unidades da Receita Federal, modais de transporte e países parceiros comerciais do Estado de São Paulo, com o objetivo de compreender a movimentação logística da região.
 - graficos interativos
 - cartões para a visualizção dos dados do grafico  
 - Limitações conhecidas 
