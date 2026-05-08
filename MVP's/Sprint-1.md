@@ -74,6 +74,5 @@
 
 ## 📂 Anexos / Evidências
 - Prints de tela
-- Prints das Interfaces do Dashboard/
 - Fluxos ou protótipos  
 - Vídeo (MVP)  
