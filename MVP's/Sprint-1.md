@@ -74,7 +74,7 @@
 
 ## 📂 Anexos / Evidências
 - Prints de tela
-=[prints](#arquivo01.exportaçãointerface.png)
+=[prints das Interfaces do Dashboard](#arquivo01.exportaçãointerface.png)
 
 - Fluxos ou protótipos  
 - Vídeo (MVP)  
