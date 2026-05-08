@@ -74,7 +74,7 @@
 
 ## 📂 Anexos / Evidências
 - Prints de tela
--  (PrintsdasinterfacesdoDashboard/arquivo01.exportaçãointerface.png)
--  [MVP](MVP's/Sprint-1.md)
+=[prints](#arquivo01.exportaçãointerface.png)
+
 - Fluxos ou protótipos  
 - Vídeo (MVP)  
