@@ -40,8 +40,8 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | [Funcionalidade de visualização]                        | Concluído|
+| 02     | [Funcionalidade de segmentação valores FOB e valor agregado]                           | Em andamento |
 
 ---
 
