@@ -21,8 +21,7 @@
 
 ## 👥 Personas / Usuários-Alvo
 
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- O analista da Secretaria de Desenvolvimento Econômico (CADI/SIDE) necessita de uma ferramenta que permita a visualização dos dados de comércio exterior do Estado de São Paulo, como os indicadores de exportação e importação, para analisar o desempenho comercial e o fluxo logístico da região.
 
 ---
 
