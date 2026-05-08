@@ -4,7 +4,7 @@
 > Descrever de forma clara qual é o propósito do MVP:  
 - Qual problema resolve? Falta de dados para visualização e análise dos dados de comércio exterior dos municípios do Estado de São Paulo.
 - Qual hipótese será validada? Se os indicadores de comércio exterior dos municípios forem disponibilizados em um dashboard interativo, então será possível analisar tendências e identificar quais municípios apresentam crescimento, estagnação ou declínio em suas atividades de exportação e importação. 
-- Qual valor será entregue ao usuário final? Um dashboard interativo que permite visualizar, comparar e analisar indicadores de comércio exterior entre os municípios do Estado de São Paulo, facilitando a compreensão dos dados e apoiando a tomada de decisão estratégica. 
+- Qual valor será entregue ao usuário final? Um dashboard interativo que permite visualizar, comparar e analisar indicadores de comércio entre os municípios do Estado de São Paulo, facilitando a compreensão dos dados e apoiando a tomada de decisão estratégica. 
 
 ---
 
