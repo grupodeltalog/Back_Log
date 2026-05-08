@@ -50,9 +50,9 @@
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário visualize e compare dados de exportação, importação, unidades da Receita Federal e países parceiros comerciais.
+- O sistema deve apresentar corretamente os dados selecionados nos filtros e atualizar os gráficos e cartões do dashboard.  
+- Métricas coletadas: funcionamento dos filtros interativos, tempo de resposta do dashboard e visualização dos indicadores comerciais.
 
 ---
 
