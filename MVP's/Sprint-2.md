@@ -53,9 +53,11 @@ Métricas coletadas: funcionamento dos filtros interativos, tempo de resposta do
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+## 📈 Métricas de Avaliação
+| Backlog de Produto| Backlog de Sprint	| Alocação de Tarefas	| Documentação no GitHub| 	Apresentação (Review)	| Conformidade Técnica| Total | 
+|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-|
+|10%|10%|10%|10%|10%|10%|60%
+|N/D|N/D|N/D|N/D|N/D|N/D|N/D| 
 
 ---
 
