@@ -14,9 +14,8 @@
 > Breve explicação do que será desenvolvido e entregue nesta etapa.  
 - Dentre as principais funcionalidades incluídas, o dashboard permite visualizar e comparar dados de exportação, importação, unidades da Receita Federal, modais de transporte e países parceiros comerciais do Estado de São Paulo, com o objetivo de compreender a movimentação logística da região.
 - Gráficos interativos e cartões para a visualização dos dados do gráfico: Os gráficos interativos permitem visualizar informações sobre valores e produtos exportados e importados, facilitando a análise dos dados de comércio exterior. Além disso, os cartões de visualização informam a quantidade de produtos exportados e importados pela unidade da Receita Federal (URF) selecionada pelo usuário no dashboard.  
-- Limitações conhecidas: Como limitações conhecidas, ainda são necessários ajustes para a inclusão dos indicadores de valor em kg, valor FOB e valor agregado dos produtos no dashboard. Além disso, o sistema necessita de melhorias na padronização dos filtros do Power BI, especialmente em relação à organização e visualização dos dados no período de 2023 a 2025.
--  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+- Limitações conhecidas: Como limitações conhecidas, ainda são necessários ajustes para a inclusão dos indicadores de valor em kg, valor FOB e valor agregado dos produtos no dashboard. Além disso, o sistema necessita de melhorias na padronização dos filtros do Power BI, especialmente em relação à organização e visualização dos dados no período de 2023 a 2025.  
+- Escopo reduzido: (somente o essencial para validar a ideia) O projeto foi desenvolvido com foco nas funcionalidades essenciais para a visualização e análise de dados de comércio exterior. Nesta primeira versão, o dashboard apresenta informações principais sobre exportação, importação, unidades da Receita Federal e países parceiros comerciais, priorizando a experiência inicial do usuário.
 
 ---
 
