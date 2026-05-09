@@ -4,7 +4,7 @@
 > Descrever de forma clara qual é o propósito do MVP:  
 - Qual problema resolve? A dificuldade na visualização e análise de dados quantitativos relacionados às movimentações logísticas dos municípios do Estado de São Paulo, dificultando o acompanhamento do desempenho comercial e logístico da região.
 - Qual hipótese será validada? Se os dados quantitativos forem apresentados por meio de indicadores comerciais em um dashboard interativo, então será possível analisar tendências e identificar municípios que apresentam crescimento, estagnação ou declínio nas atividades de exportação e importação.
-- Qual valor será entregue ao usuário final? Um dashboard interativo que permite visualizar, comparar e analisar indicadores de comerciais entre os municípios do Estado de São Paulo, facilitando a compreensão dos dados e apoiando a tomada de decisão estratégica. 
+- Qual valor será entregue ao usuário final? Um dashboard interativo que permite visualizar, comparar e analisar indicadores comerciais entre os municípios do Estado de São Paulo, facilitando a compreensão dos dados e apoiando a tomada de decisão estratégica.
 
 ---
 
