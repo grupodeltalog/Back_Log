@@ -62,7 +62,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 13   | Alta     | Como gestor público, desejo comparar o desempenho de municípios paulistas de porte semelhante para identificação de desempenho| 6 horas | 2
 | 14   | Média      |   Como gestor público, desejo visualizar a quantidade dos produtos comercializados nos municípios do estado, para analisar valor agregado.        | 6 horas | 2
 | 15   | Alta       |  Como gestor público, desejo obter dados da comercialização por código SH4, para pesquisa mais rápida e objetiva.         | 4 horas  | 2
-| 16    | Alta       |  Como gestor público, desejo visualizar a evolução na balança histórica por município, para identicar tendências históricas de mercado        | 4 horas  | 2
+| 16    | Alta       |  Como gestor público, desejo visualizar a evolução na balança histórica por município, para identificar tendências históricas de mercado        | 4 horas  | 2
 | 17   | Média      |   Como gestor público, desejo visualizar as URF's que abrangem o estado por município.        | 2 horas | 2
 | 18   | Alta       |  Como gestor público, desejo visualizar o ranking de exportação dos municípios do estado, para entender concentração de comércio.         | 3 horas | 2
 | 19   | Média      |    Como gestor público, desejo visualizar o ranking de importação dos municípios do estado, para entender necessidades produtivas.| 4 horas | 2
