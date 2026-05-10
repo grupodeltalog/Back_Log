@@ -17,7 +17,7 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- O analista da Secretaria de Desenvolvimento Econômico (CADI/SIDE) necessita de uma ferramenta que permita a visualização dos dados de comércio exterior do Estado de São Paulo, como os indicadores de exportação e importação, para analisar o desempenho comercial e o fluxo logístico da região.
+- O analista da Secretaria de Desenvolvimento Econômico (CADI/SIDE) necessita de uma ferramenta que permita a visualização e análise quantitativa dos dados de comércio exterior dos municípios do Estado de São Paulo, por meio de indicadores comerciais, como valor em KG e valor FOB, para compreender o desempenho econômico com as movimentações logísticas de cada município.
   
 ---
 
