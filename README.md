@@ -62,22 +62,21 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 13   | Alta     | Como gestor público, desejo comparar o desempenho de municípios paulistas de porte semelhante para identificação de desempenho| 6 horas | 2
 | 14   | Média      |   Como gestor público, desejo visualizar a quantidade dos produtos comercializados nos municípios do estado, para analisar valor agregado.        | 6 horas | 2
 | 15   | Alta       |  Como gestor público, desejo obter dados da comercialização por código SH4, para pesquisa mais rápida e objetiva.         | 4 horas  | 2
-| 16    | Alta       |  Como gestor público, desejo visualizar a evolução na balança histórica por município, para identificar tendências históricas de mercado        | 4 horas  | 2
-| 17   | Média      |   Como gestor público, desejo visualizar as URF's que abrangem o estado por município.        | 2 horas | 2
-| 18   | Alta       |  Como gestor público, desejo visualizar o ranking de exportação dos municípios do estado, para entender concentração de comércio.         | 3 horas | 2
-| 19   | Média      |    Como gestor público, desejo visualizar o ranking de importação dos municípios do estado, para entender necessidades produtivas.| 4 horas | 2
-| 20   | Alta       |  Como gestor público, desejo uma base de dados bem estruturada, para organizar melhor os dados.       | 5 horas | 2                                         
-| 21   |   Alta         |   Como gestor público, desejo visualizar os dados por municípios do Estado de São Paulo em um dashboard interativo, para análise da região por município.        | 6 horas  | 2
-| 22   |   Alta         |   Como gestor público, desejo visualizar uma análise comparativa por produtos semelhantes entre os estados da federação para uma análise abrangendo todo o pais.    | 6 horas | 3
-| 23   |  Média          |  Como gestor público, desejo visualizar os dados comparativos de importação e exportação entre os outros estados da federação, para análise de desempenho.     | 4 horas | 3
-| 24   |   Alta         |  Como gestor público, desejo uma analise das unidades da receita federal que conectam a movimentação do pais, para análise da movimentação logística nacional.     | 3 horas | 3
-| 25   |    Alta        |   Como gestor público, desejo saber quais os principais modais utilizados, para análise das possibilidades do tráfego de produtos.    | 4 horas | 3
-| 26   |  Alta          |   Como gestor público, desejo visualizar produtos por estado em unidade, KG, e valor FOB, para análise de valor agregado. | 4 horas | 3
-| 27   |      Alta    |  Como gestor público, desejo uma função de pesquisa por código SH4 para facilitar as pesquisas por estados da federação.     | 4 horas | 3
-| 28   |    Média      | Como gestor público, desejo visualizar uma análise de mercados emergentes com base em aumento de produção por produtos.      | 3 horas | 3
-| 29   | Alta         |   Como gestor público, desejo visualizar todas estas informações em um dashboard gráfico interativo.    | 5 horas | 3                                 
-| 30   |       Alta     |Como gestor público, desejo que a base de dados do dashboard contenha informações recentes e atualizadas.     | 5 horas | 3
-| 31   |    Alta        |  Como gestor público, desejo todas as funcionalidades apresentadas nas sprints em plena funcionalidade     | 5 horas | 3
+| 16   | Média      |   Como gestor público, desejo visualizar as URF's que abrangem o estado por município.        | 2 horas | 2
+| 17   | Alta       |  Como gestor público, desejo visualizar o ranking de exportação dos municípios do estado, para entender concentração de comércio.         | 3 horas | 2
+| 18   | Média      |    Como gestor público, desejo visualizar o ranking de importação dos municípios do estado, para entender necessidades produtivas.| 4 horas | 2
+| 19   | Alta       |  Como gestor público, desejo uma base de dados bem estruturada, para organizar melhor os dados.       | 5 horas | 2                                         
+| 20   |   Alta         |   Como gestor público, desejo visualizar os dados por municípios do Estado de São Paulo em um dashboard interativo, para análise da região por município.        | 6 horas  | 2
+| 21   |   Alta         |   Como gestor público, desejo visualizar uma análise comparativa por produtos semelhantes entre os estados da federação para uma análise abrangendo todo o pais.    | 6 horas | 3
+| 22   |  Média          |  Como gestor público, desejo visualizar os dados comparativos de importação e exportação entre os outros estados da federação, para análise de desempenho.     | 4 horas | 3
+| 23   |   Alta         |  Como gestor público, desejo uma analise das unidades da receita federal que conectam a movimentação do pais, para análise da movimentação logística nacional.     | 3 horas | 3
+| 24   |    Alta        |   Como gestor público, desejo saber quais os principais modais utilizados, para análise das possibilidades do tráfego de produtos.    | 4 horas | 3
+| 25   |  Alta          |   Como gestor público, desejo visualizar produtos por estado em unidade, KG, e valor FOB, para análise de valor agregado. | 4 horas | 3
+| 26   |      Alta    |  Como gestor público, desejo uma função de pesquisa por código SH4 para facilitar as pesquisas por estados da federação.     | 4 horas | 3
+| 27   |    Média      | Como gestor público, desejo visualizar uma análise de mercados emergentes com base em aumento de produção por produtos.      | 3 horas | 3
+| 28   | Alta         |   Como gestor público, desejo visualizar todas estas informações em um dashboard gráfico interativo.    | 5 horas | 3                                 
+| 29   |       Alta     |Como gestor público, desejo que a base de dados do dashboard contenha informações recentes e atualizadas.     | 5 horas | 3
+| 30   |    Alta        |  Como gestor público, desejo todas as funcionalidades apresentadas nas sprints em plena funcionalidade     | 5 horas | 3
 
   
   
