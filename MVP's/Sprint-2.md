@@ -59,6 +59,9 @@ Número de usuários que testaram o MVP e utilizaram os filtros interativos do d
 Feedback qualitativo relacionado à visualização dos indicadores quantitativos e à compreensão dos dados comerciais.
 
 Avaliação da eficiência dos rankings, gráficos, cartões e consultas por código SH4 no apoio à análise econômica com as movimentações logísticas por município.
+
+---
+
 ## 📈 Métricas de Avaliação
 | Backlog de Produto| Backlog de Sprint	| Alocação de Tarefas	| Documentação no GitHub| 	Apresentação (Review)	| Conformidade Técnica| Total | 
 |-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-|
