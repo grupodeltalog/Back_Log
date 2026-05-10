@@ -12,7 +12,7 @@
 > Breve explicação do que será desenvolvido e entregue nesta etapa.  
 - Dentre as principais funcionalidades incluídas, o dashboard permite visualizar os produtos mais comercializados em KG e valor FOB, analisar a quantidade de produtos movimentados nos municípios do Estado de São Paulo para avaliação de valor agregado, consultar dados por código SH4 e visualizar rankings de exportação e importação dos municípios, auxiliando na compreensão da concentração comercial e das necessidades produtivas da região. A inclusão dessas funcionalidades foi direcionada principalmente para a análise quantitativa comercial das movimentações logísticas, permitindo uma compreensão mais ampla do desempenho econômico dos municípios do Estado de São Paulo.  
 - Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+- Escopo reduzido (somente o essencial para validar a ideia) Nesta segunda versão do MVP, foram priorizadas funcionalidades voltadas à análise quantitativa do comércio exterior dos municípios do Estado de São Paulo. O dashboard apresenta recursos essenciais para consulta e comparação das informações comerciais, permitindo validar o desempenho econômico e a experiência inicial do usuário. 
 
 ---
 
