@@ -10,7 +10,7 @@
 
 ## 📝 Descrição da Solução
 > Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
+- Dentre as principais funcionalidades incluídas, o dashboard permite visualizar os produtos mais comercializados em KG e valor FOB, analisar a quantidade de produtos movimentados nos municípios do Estado de São Paulo para avaliação de valor agregado, consultar dados por código SH4 e visualizar rankings de exportação e importação dos municípios, auxiliando na compreensão da concentração comercial e das necessidades produtivas da região. A inclusão dessas funcionalidades foi direcionada principalmente para a análise quantitativa comercial das movimentações logísticas, permitindo uma compreensão mais ampla do desempenho econômico dos municípios do Estado de São Paulo.  
 - Limitações conhecidas  
 - Escopo reduzido (somente o essencial para validar a ideia)  
 
