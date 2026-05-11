@@ -76,7 +76,7 @@
 - Códigos Comex Stat:
 https://drive.google.com/drive/folders/1yxLSbzKF25hjxlforyweDhW20JQZzRs-
 
-- interface dashboard:
+- Interface dashboard:
 https://github.com/grupodeltalog/Back_Log/tree/e86220e25dbc0f67d52f2acde393b054e27584a1/Prints%20das%20Interfaces%20do%20Dashboard  
 
 - Apresentação slide:
