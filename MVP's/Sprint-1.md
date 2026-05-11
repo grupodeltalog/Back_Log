@@ -76,4 +76,4 @@
 - Prints de tela
 https://github.com/grupodeltalog/Back_Log/tree/e86220e25dbc0f67d52f2acde393b054e27584a1/Prints%20das%20Interfaces%20do%20Dashboard
 - Fluxos ou protótipos  
-- Vídeo (MVP)  
+- Apresentação slide: https://canva.link/0prkbmwd41vj9ip 
