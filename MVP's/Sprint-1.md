@@ -73,7 +73,7 @@
 ---
 
 ## 📂 Anexos / Evidências
-Códigos Comex Stat:
+- Códigos Comex Stat:
 https://drive.google.com/drive/folders/1yxLSbzKF25hjxlforyweDhW20JQZzRs-
 
 - interface dashboard:
