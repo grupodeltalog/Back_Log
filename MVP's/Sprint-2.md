@@ -80,4 +80,5 @@ Avaliação da eficiência dos rankings, gráficos, cartões e consultas por có
 ## 📂 Anexos / Evidências
 - Prints de tela  
 - Fluxos ou protótipos  
-- Vídeo (MVP)  
+- Vídeo (MVP)
+- 5W2H: https://github.com/grupodeltalog/Back_Log/tree/ac37374b79dfc3c3ac559f4a87c28a1fd7cef02c/5W2H
