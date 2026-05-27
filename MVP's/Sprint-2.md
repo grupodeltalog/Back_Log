@@ -77,6 +77,6 @@ Avaliação da eficiência dos rankings, gráficos, cartões e consultas por có
 ---
 
 ## 📂 Anexos / Evidências
-- interface dashboard: 
+- interface dashboard: https://github.com/grupodeltalog/Back_Log/tree/7c29bf6fe6824a85976e4bd2c4e25238304922a4/Prints%20das%20interfaces%20do%20Dashboard%20Sprint%202
 - Apresentação slide: [SLIDEAPRESENTACAOAPIS2.pdf](https://github.com/user-attachments/files/28313257/SLIDEAPRESENTACAOAPIS2.pdf)  
 - 5W2H: https://github.com/grupodeltalog/Back_Log/blob/b5c012f7edb8063d92173819b1373012c2c2b45c/5W2H/5W2H_SPRINT_2.pdf
