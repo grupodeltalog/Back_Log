@@ -77,6 +77,5 @@ Avaliação da eficiência dos rankings, gráficos, cartões e consultas por có
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
+- Slides: [SLIDEAPRESENTACAOAPIS2.pdf](https://github.com/user-attachments/files/28313257/SLIDEAPRESENTACAOAPIS2.pdf)  
 - 5W2H: https://github.com/grupodeltalog/Back_Log/blob/b5c012f7edb8063d92173819b1373012c2c2b45c/5W2H/5W2H_SPRINT_2.pdf
