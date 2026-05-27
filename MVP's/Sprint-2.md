@@ -79,4 +79,4 @@ Avaliação da eficiência dos rankings, gráficos, cartões e consultas por có
 ## 📂 Anexos / Evidências
 - Prints de tela  
 - Fluxos ou protótipos  
-- 5W2H: https://github.com/grupodeltalog/Back_Log/tree/ac37374b79dfc3c3ac559f4a87c28a1fd7cef02c/5W2H
+- 5W2H: https://github.com/grupodeltalog/Back_Log/blob/b5c012f7edb8063d92173819b1373012c2c2b45c/5W2H/5W2H_SPRINT_2.pdf
