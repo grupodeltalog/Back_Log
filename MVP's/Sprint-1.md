@@ -82,4 +82,4 @@ https://github.com/grupodeltalog/Back_Log/tree/e86220e25dbc0f67d52f2acde393b054e
 - Apresentação slide:
   https://canva.link/0prkbmwd41vj9ip
 
-  - 5W2H: 
+- 5W2H: https://github.com/grupodeltalog/Back_Log/blob/b5c012f7edb8063d92173819b1373012c2c2b45c/5W2H/52WH_SPRINT_1.pdf
