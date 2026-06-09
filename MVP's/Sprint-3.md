@@ -15,6 +15,7 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
+Para acompanhar o cenário do comércio exterior brasileiro, o analista da Secretaria de Desenvolvimento Econômico (CADI/SIDE) necessita acessar informações comerciais e logísticas consolidadas dos estados da federação. A disponibilização desses dados em uma única plataforma permite compreender as relações entre exportações, importações, modais de transporte e unidades da Receita Federal, ampliando a análise do desempenho econômico em escala nacional.
 
 ---
 
