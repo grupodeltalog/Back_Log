@@ -9,8 +9,9 @@
 ---
 
 ## 📝 Descrição da Solução
- 
-
+- Funcionalidades principais incluídas: A solução reúne informações de comércio exterior dos estados da federação em um único dashboard interativo, incorporando 4 novas interfaces que permitem consultar e comparar dados de exportação e importação por produto e por município, por meio de indicadores de valor FOB e quantidade em KG. A plataforma também disponibiliza filtros de pesquisa e seleção por estados e municípios, possibilitando análises mais específicas e direcionadas. Além disso, permite analisar as Unidades da Receita Federal (URFs) responsáveis pela movimentação nacional e identificar os principais modais de transporte utilizados. A integração dessas funcionalidades em uma base de dados estruturada e atualizada foi direcionada para ampliar a análise comercial e logística em escala nacional, permitindo identificar padrões e tendências entre os estados brasileiros. 
+- Limitações conhecidas: O dashboard apresenta instabilidade na exibição dos nomes dos municípios durante a utilização dos filtros de pesquisa por município, podendo ocasionar inconsistências temporárias na visualização das informações selecionadas.
+- Escopo reduzido (somente o essencial para validar a ideia): O MVP desta sprint concentra-se na ampliação da visão analítica do comércio exterior brasileiro, incorporando recursos que permitem explorar informações em escala nacional. A versão desenvolvida busca validar a capacidade da plataforma de consolidar dados comerciais e logísticos em um ambiente único, oferecendo ao usuário uma compreensão mais abrangente das relações entre estados, municípios e produtos.
 ---
 
 ## 👥 Personas / Usuários-Alvo
