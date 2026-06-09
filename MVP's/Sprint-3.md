@@ -43,11 +43,13 @@
 ---
 
 ## 📊 Critérios de Aceitação
-O MVP deve permitir que o usuário visualize e compare indicadores quantitativos de exportação e importação dos municípios do Estado de São Paulo, incluindo valor em KG, valor FOB e consultas por código SH4.
+- O dashboard deve permitir a exploração dos dados de comércio exterior em escala nacional, possibilitando análises comparativas entre os estados da federação e consultas por produto e município.
+- As informações exibidas devem refletir corretamente as seleções realizadas nos filtros de estados e municípios.
+- Métricas coletadas: funcionamento dos filtros de pesquisa e seleção, atualização dos valores nos gráficos e cartões após a aplicação dos filtros e tempo de resposta do dashboard.
 
-O sistema deve apresentar corretamente os rankings de exportação e importação dos municípios, além de exibir os valores quantitativos selecionados nos filtros do dashboard.
 
-Métricas coletadas: funcionamento dos filtros interativos, atualização dos valores nos gráficos e cartões após a seleção dos filtros e tempo de resposta do dashboard.
+
+
 
 ---
 
