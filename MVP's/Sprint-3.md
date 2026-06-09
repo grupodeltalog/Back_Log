@@ -54,11 +54,11 @@
 ---
 
 ## 📈 Métricas de Validação
-Número de usuários que testaram o MVP e utilizaram os filtros interativos do dashboard.
+- Quantidade de usuários que utilizaram o MVP para explorar informações comerciais e logísticas por meio dos filtros disponíveis no dashboard.
 
-Feedback qualitativo relacionado à visualização dos indicadores quantitativos e à compreensão dos dados comerciais.
+- Percepção dos usuários quanto à usabilidade das novas interfaces, à compreensão dos dados apresentados e à eficiência dos filtros de pesquisa.
 
-Avaliação da eficiência dos rankings, gráficos, cartões e consultas por código SH4 no apoio à análise econômica com as movimentações logísticas por município.
+- Avaliação da efetividade dos filtros, gráficos e cartões, bem como da utilidade das informações sobre modais de transporte e Unidades da Receita Federal.
 
 ---
 
