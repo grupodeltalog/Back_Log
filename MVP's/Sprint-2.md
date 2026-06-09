@@ -65,7 +65,7 @@ Avaliação da eficiência dos rankings, gráficos, cartões e consultas por có
 | Backlog de Produto| Backlog de Sprint	| Alocação de Tarefas	| Documentação no GitHub| 	Apresentação (Review)	| Conformidade Técnica| Total | 
 |-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-|
 |10%|10%|10%|10%|10%|10%|60%
-|N/D|N/D|N/D|N/D|N/D|N/D|N/D| 
+|1,0|1,0|0,4|1,0|1,0|1,0|5,4| 
 
 ---
 
