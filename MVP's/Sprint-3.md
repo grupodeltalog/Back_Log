@@ -44,7 +44,9 @@
 
 ## 📊 Critérios de Aceitação
 - O dashboard deve permitir a exploração dos dados de comércio exterior em escala nacional, possibilitando análises comparativas entre os estados da federação e consultas por produto e município.
+  
 - As informações exibidas devem refletir corretamente as seleções realizadas nos filtros de estados e municípios.
+  
 - Métricas coletadas: funcionamento dos filtros de pesquisa e seleção, atualização dos valores nos gráficos e cartões após a aplicação dos filtros e tempo de resposta do dashboard.
 
 
