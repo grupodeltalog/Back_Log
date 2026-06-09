@@ -1,8 +1,10 @@
 # 📌 MVP - [API 1 Logística]
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-
+> Descrever de forma clara qual é o propósito do MVP:
+- Qual problema resolve? Dificuldade na visualização e comparação dos dados de comércio exterior dos estados da federação, limitando a análise das movimentações logísticas e do desempenho comercial em âmbito nacional.
+- Qual hipótese será validada? Se os dados de comércio exterior dos estados da federação forem apresentados em um dashboard interativo com indicadores comerciais para análise comparativa, então será possível avaliar o desempenho comercial em escala nacional e identificar tendências nos fluxos de exportação e importação.
+- Qual valor será entregue ao usuário final? Uma plataforma que integra informações comerciais e logísticas dos estados da federação, permitindo identificar padrões, tendências e diferenças regionais no comércio exterior brasileiro, proporcionando maior clareza na interpretação dos dados.
 
 ---
 
