@@ -35,9 +35,12 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 ## Tecnologias Utilizadas
  
+* Google Colab
+* Python
+* Microsoft Excel
+* Microsoft Power BI
 * GitHub
-* Power BI
-* Python (Colab)
+* Canva
 
 
 
