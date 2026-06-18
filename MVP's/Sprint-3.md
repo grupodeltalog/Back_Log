@@ -80,7 +80,5 @@
 ---
 
 ## 📂 Anexos / Evidências
-- interface dashboard: 
-- Apresentação slide: 
 - 5W2H:
 
